@@ -1,1 +1,0 @@
-# amplify-static-website
